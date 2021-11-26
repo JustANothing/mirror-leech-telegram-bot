@@ -406,8 +406,9 @@ Where host is the name of extractor (eg. Twitch). Multiple accounts of different
 ---
 ## Gdtot Cookies
 To Clone or Leech gdtot link follow these steps:
-1. Login/Register to [gdtot](https://new.gdtot.top)
-2. Copy this script and paste it in browser bar
+1. Login/Register to [gdtot](https://new.gdtot.top).
+2. Copy this script and paste it in browser address bar. 
+   **Note**: After pasting the code check in the starting of code if javascript: is not there then kindly add it as shown below.
    ```
    javascript:(function () {
      const input = document.createElement('input');
